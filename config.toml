@@ -1,4 +1,4 @@
-baseURL = "https://epic-kilby-b48618.netlify.com/"
+baseURL = "http://trafa.com.br"
 languageCode = "en-us"
 title = "Trafa | Audiovisual"
 theme = "navigator-hugo"
@@ -16,7 +16,6 @@ pygmentsCodeFences = true
 # Renders the default content language in subdir, e.g. /en/. The root directory / will redirect to /en/
 defaultContentLanguageInSubdir = true
 DefaultContentLanguage = "en"
-
 
 # Site Params
 [params]
