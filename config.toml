@@ -1,9 +1,8 @@
-baseURL = ""
+baseURL = "https://epic-kilby-b48618.netlify.com/"
 languageCode = "en-us"
 title = "Trafa | Audiovisual"
 theme = "navigator-hugo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-
 
 # Build robots.txt file
 enableRobotsTXT = true
