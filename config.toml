@@ -1,4 +1,4 @@
-baseURL = "http://trafa.com.br"
+baseURL = "https://trafa.com.br"
 languageCode = "en-us"
 title = "Trafa | Audiovisual"
 theme = "navigator-hugo"
