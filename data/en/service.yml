@@ -1,0 +1,32 @@
+enable  : true
+topTitle: Trabalhos recentes
+title   : Fotografias
+subtitle: ""
+
+filtermenu :
+  - name      : Ensaio
+    category  : ensaio
+
+  - name      : Eventos
+    category  : eventos
+
+  - name      : Artístico
+    category  : artistico
+
+item   :
+  - title : Fotos para ensaio feminino
+    description : Ensaio realizado a céu aberto com temática envolvendo liberdade. https://drive.google.com/open?id=0B6chBlHnzCcLYXBYY3FNVExBVTQ
+    image : images/fotografia/ensaio_feminino.webp
+    category  : ensaio
+
+  - title : Modelo em estúdio
+    image : images/fotografia/artistico.webp
+    category  : artistico
+
+  - title : Aniversário infantil
+    image : images/fotografia/aniversario.webp
+    category  : eventos
+
+  - title : Ensaio gestante
+    image : images/fotografia/ensaio_gestante.png
+    category  : ensaio

@@ -1,0 +1,20 @@
+[about]
+other = "Sobre"
+[service]
+other = "Serviços"
+[portfolio]
+other = "Portfolio"
+[contact]
+other = "Contato"
+
+[graphicdesign]
+other = "Graphic Design"
+[webdesign]
+other = "Web Design"
+[partners]
+
+other = "Parceiros"
+[faqs]
+other = "FAQ"
+[badges]
+other = "Certificados"

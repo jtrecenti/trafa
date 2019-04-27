@@ -1,0 +1,37 @@
+enable  : true
+topTitle: Trabalho recente
+title   : Vídeos.
+subtitle: ""
+
+filtermenu :
+  - name      : Institucional
+    category  : institucional
+
+  - name      : Documentário
+    category  : documentario
+
+  - name      : Ficção
+    category  : ficcao
+
+  - name      : Edição
+    category  : edicao
+
+item   :
+  - title : Uma breve história
+    description: Roteirista e Diretor de Fotografia
+    image : https://www.youtube.com/embed/4z6n_jOFpv8
+    image2: https://www.youtube.com/watch?v=4z6n_jOFpv8
+    category  : ficcao
+
+  - title : Caminhos para a adoção
+    description: Diretor
+    image : https://www.youtube.com/embed/5nMIyO-6iMQ
+    image2: https://www.youtube.com/watch?v=5nMIyO-6iMQ
+    category  : documentario
+
+  - title : Enigma - Curta Universitário
+    description: Diretor de Fotografia
+    image : https://www.youtube.com/embed/Oa5PzmawJ4E
+    image2: https://www.youtube.com/watch?v=Oa5PzmawJ4E
+    category  : ficcao
+
